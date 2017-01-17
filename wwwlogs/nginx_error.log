@@ -1,0 +1,15 @@
+2016/06/28 19:46:07 [emerg] 3446#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:07 [emerg] 3446#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:07 [emerg] 3446#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:07 [emerg] 3446#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:07 [emerg] 3446#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:07 [emerg] 3446#0: still could not bind()
+2016/06/28 19:46:26 [emerg] 3447#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:26 [emerg] 3447#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:26 [emerg] 3447#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:26 [emerg] 3447#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:26 [emerg] 3447#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/06/28 19:46:26 [emerg] 3447#0: still could not bind()
+2016/06/29 17:45:57 [crit] 8387#0: *1249 connect() to unix:/tmp/php-cgi.sock failed (2: No such file or directory) while connecting to upstream, client: 60.207.237.28, server: www.lnmp.org, request: "GET /user HTTP/1.1", upstream: "fastcgi://unix:/tmp/php-cgi.sock:", host: "159.203.62.90", referrer: "http://159.203.62.90/"
+2016/06/29 17:46:02 [crit] 8387#0: *1249 connect() to unix:/tmp/php-cgi.sock failed (2: No such file or directory) while connecting to upstream, client: 60.207.237.28, server: www.lnmp.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/tmp/php-cgi.sock:", host: "159.203.62.90", referrer: "http://159.203.62.90/"
+2016/06/29 17:46:08 [crit] 8387#0: *1249 connect() to unix:/tmp/php-cgi.sock failed (2: No such file or directory) while connecting to upstream, client: 60.207.237.28, server: www.lnmp.org, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/tmp/php-cgi.sock:", host: "159.203.62.90"
